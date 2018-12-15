@@ -9,6 +9,9 @@ DS1011-NLP Final Project Neural Machine Translation
    - dot_product based attention
     - vi-en: dotpro_atten_vi_en.ipynb
     - zh-en: dotpro_atten_zh_en.ipynb
+    -neural net based attention
+     - vi-en: neural_attent_vi_en.ipynb
+     - zh-en: neural_attent_zh_en.ipynb
 3. Replace the recurrent encoder with  convolutional  based encoder
    - Convolution based dot product attention: conv_dot_product_attention.ipynb
 4. Transformer, fully self-attention translation system
