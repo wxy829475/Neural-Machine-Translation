@@ -13,3 +13,5 @@ DS1011-NLP Final Project Neural Machine Translation
    - Convolution based dot product attention: conv_dot_product_attention.ipynb
 4. Transformer, fully self-attention translation system
    - Transformer.ipynb
+5. Preprocessing:
+   - Preprocessing.ipynb: for dot_product based attention model, Convolution based dot product attention model and Transformer
