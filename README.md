@@ -1,4 +1,4 @@
-# NLP_final_projct
+# NLP_final_project
 
 DS1011-NLP Final Project Neural Machine Translation
 
